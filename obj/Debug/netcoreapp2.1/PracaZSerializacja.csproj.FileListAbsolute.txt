@@ -1,0 +1,11 @@
+C:\Users\Piotr\Documents\dotnet_projects\PracaZSerializacja\obj\Debug\netcoreapp2.1\PracaZSerializacja.csprojAssemblyReference.cache
+C:\Users\Piotr\Documents\dotnet_projects\PracaZSerializacja\obj\Debug\netcoreapp2.1\PracaZSerializacja.csproj.CoreCompileInputs.cache
+C:\Users\Piotr\Documents\dotnet_projects\PracaZSerializacja\obj\Debug\netcoreapp2.1\PracaZSerializacja.AssemblyInfoInputs.cache
+C:\Users\Piotr\Documents\dotnet_projects\PracaZSerializacja\obj\Debug\netcoreapp2.1\PracaZSerializacja.AssemblyInfo.cs
+C:\Users\Piotr\Documents\dotnet_projects\PracaZSerializacja\bin\Debug\netcoreapp2.1\PracaZSerializacja.deps.json
+C:\Users\Piotr\Documents\dotnet_projects\PracaZSerializacja\bin\Debug\netcoreapp2.1\PracaZSerializacja.runtimeconfig.json
+C:\Users\Piotr\Documents\dotnet_projects\PracaZSerializacja\bin\Debug\netcoreapp2.1\PracaZSerializacja.runtimeconfig.dev.json
+C:\Users\Piotr\Documents\dotnet_projects\PracaZSerializacja\bin\Debug\netcoreapp2.1\PracaZSerializacja.dll
+C:\Users\Piotr\Documents\dotnet_projects\PracaZSerializacja\bin\Debug\netcoreapp2.1\PracaZSerializacja.pdb
+C:\Users\Piotr\Documents\dotnet_projects\PracaZSerializacja\obj\Debug\netcoreapp2.1\PracaZSerializacja.dll
+C:\Users\Piotr\Documents\dotnet_projects\PracaZSerializacja\obj\Debug\netcoreapp2.1\PracaZSerializacja.pdb

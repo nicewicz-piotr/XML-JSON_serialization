@@ -1,0 +1,12 @@
+<?xml version="1.0"?>
+<Osoby xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Osoba imie="Alicja" nazwisko="Nowak" data_urodzenia="1974-03-14T00:00:00" />
+  <Osoba imie="Jan" nazwisko="Kowalski" data_urodzenia="1969-02-19T00:00:00" />
+  <Osoba imie="Celina" nazwisko="Rozenek" data_urodzenia="1939-12-18T00:00:00" />
+  <Osoba imie="Marek" nazwisko="Kowal" data_urodzenia="1975-01-02T00:00:00">
+    <Dzieci>
+      <Osoba imie="Anna" nazwisko="Kowal" data_urodzenia="1988-02-15T00:00:00" />
+      <Osoba imie="Patryk" nazwisko="Kowal" data_urodzenia="1990-09-20T00:00:00" />
+    </Dzieci>
+  </Osoba>
+</Osoby>
